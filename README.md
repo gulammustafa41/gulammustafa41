@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm gulammustafa41</h1>
-<h3 align="center">A passionate Android Developer❤️, Computer Science Engineering Student from Hyderabad, India.</h3>
+<h3 align="center">A passionate Android Developer, Computer Science Engineering Student from Hyderabad, India.</h3>
 
 
 
