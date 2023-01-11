@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm gulammustafa41</h1>
-<h3 align="center">A passionate Android Developer, Computer Science Engineering Student from Hyderabad, India.</h3>
+
+<h3 align="center">A passionate & self taught Android Developer from Hyderabad, India. </h3>
 
 
 
@@ -8,6 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulammustafa41&label=Profile%20views&color=0e75b6&style=flat" alt="gulammustafa41" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gmustafa41" target="blank"><img src="https://img.shields.io/twitter/follow/gmustafa41?logo=twitter&style=for-the-badge" alt="gmustafa41" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **(Native Kotlin)**
 
