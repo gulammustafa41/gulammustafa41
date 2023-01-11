@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **gulaamustafa13@gmail.com**
 
+- ⚡ Looking for **Internship preferably Remote**
+
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
 <h3 align="left">Connect with me:</h3>
