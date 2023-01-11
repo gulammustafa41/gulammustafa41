@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Android Developer❤️, Computer Science Engineering Student from Hyderabad, India.</h3>
 
 
-(img align="right" alt="Coding" width="400" src= "https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulammustafa41&label=Profile%20views&color=0e75b6&style=flat" alt="gulammustafa41" /> </p>
