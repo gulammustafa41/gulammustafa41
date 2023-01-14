@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate & self taught Android Developer from Hyderabad, India. </h3>
 
-
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulammustafa41&label=Profile%20views&color=0e75b6&style=flat" alt="gulammustafa41" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gulaamustafa13@gmail.com**
 
-- ⚡ Looking for **Internship preferably Remote**
+- ⚡ Looking for **Internship preferably From office**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
