@@ -19,8 +19,7 @@
 
 - ⚡ Looking for **Internship preferably From office**
 
-- ⚡ Fun fact **Coding will soon be as important 
--                 as reading**
+- ⚡ Fun fact **Coding will soon be as important as reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
