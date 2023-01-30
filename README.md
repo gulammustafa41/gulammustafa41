@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
-                           (https://www.buymeacoffee.com/gulaamustaw)
+                                          https://www.buymeacoffee.com/gulaamustaw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
