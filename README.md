@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **gulaamustafa13@gmail.com**
+- 📫 reach me out **gulaamustafa13@gmail.com**
 
 - ⚡ Looking for **Internship preferably From office**
 
