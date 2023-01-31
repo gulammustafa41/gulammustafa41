@@ -17,7 +17,7 @@
 
 - 📫 reach me out **gulaamustafa13@gmail.com**
 
-- ⚡ Looking for **Internship preferably From office**
+- ⚡ Looking for **Internship preferably in office**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
