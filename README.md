@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **(Native Kotlin)**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 reach me out **gulaamustafa13@gmail.com**
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
-                                          https://www.buymeacoffee.com/gulaamustaw
+                                        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
