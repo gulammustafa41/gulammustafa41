@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **(Native Kotlin)**
+- 🌱 I’m currently learning **(Web Development)**
 
 - 💬 Ask me about **Web Development**
 
