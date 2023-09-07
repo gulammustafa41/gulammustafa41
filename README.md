@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **(Web Development)**
+- 🌱 **WEB DEVELOPER**
 
 - 💬 Ask me about **Web Development**
 
